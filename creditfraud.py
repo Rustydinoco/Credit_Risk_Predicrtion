@@ -51,5 +51,5 @@ model.fit(X_train_scaled, y_train)
 
 import joblib
 
-joblib.dump(model, 'model_credit2.pkl')
-joblib.dump(scaler, 'scaler_credit2.pkl')
+joblib.dump(model, 'model_credit3.pkl')
+joblib.dump(scaler, 'scaler_credit3.pkl')
